@@ -21,3 +21,12 @@ git config email.name "emaildousuario@gmail.com"
 
 //lista todos os commits
 git log
+
+//vincular com repositorio remoto
+git remoto + endereço (comando fornecido pelo gihub)
+
+//subir para o repositório remoto
+git push -u origin main
+
+//verificar repositório remoto
+git pull
