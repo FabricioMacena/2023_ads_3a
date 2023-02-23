@@ -20,3 +20,4 @@ git config user.name "nomeusuario"
 git config email.name "emaildousuario@gmail.com" 
 
 //lista todos os commits
+git log
