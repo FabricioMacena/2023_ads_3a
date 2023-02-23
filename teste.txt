@@ -1,1 +1,22 @@
-primeira linha do arquivo teste
+// iniciar um controle de versão
+git init
+
+//verificar alterações
+git status
+
+//adicionar arquivo á próxima versão
+git add nomedoarquivo.extensãodoarquivo
+
+//adicionar TODOS arquivos alterados na próx versão
+git add .
+
+//gerar próx versão
+git commit -m "descrição das nodificações"
+
+//adicionar nome de usuário
+git config user.name "nomeusuario"
+
+//adicionar email
+git config email.name "emaildousuario@gmail.com" 
+
+//lista todos os commits
