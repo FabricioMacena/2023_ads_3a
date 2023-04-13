@@ -1,0 +1,7 @@
+requisições
+
+get - pegar todos os dados
+get - pegar apenas um dado (por uma chave)
+post - cadastrar novo dado
+put - atualizar um dados (por uma chave)
+delete - excluir um dado
